@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.DosttAutoDialer" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent_purple</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+    </style>
+</resources>

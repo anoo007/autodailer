@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dostt Auto-Dialer</string>
+    <string name="accessibility_service_label">Dostt Audio Auto-Dialer</string>
+    <string name="accessibility_service_description">Scoped strictly to live.friend.dostt. Automates tapping Audio Call and Go back home when Dostts are unavailable, and stops immediately when a call connects. Never reads or interacts with banking or background apps.</string>
+</resources>
